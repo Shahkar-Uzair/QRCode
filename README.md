@@ -11,3 +11,5 @@ QRCode is a flutter based application user can scan QR codes in order to fetch d
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-12-29 at 01 03 38](https://user-images.githubusercontent.com/71919862/147631885-803a161a-4816-4220-b7fc-db80b29eb0c7.png)
 
 # QRCode Generator
+![Uploading Simulator Screen Shot - iPhone 12 Pro Max - 2021-12-29 at 01.03.43.png…]()
+
